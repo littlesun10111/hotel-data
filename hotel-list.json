@@ -1,0 +1,498 @@
+{
+    [
+        "year":"2018",
+        "hotel": [{
+                "id": "1",
+                "name": "日暉國際渡假村 台東池上",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_01-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3848&HotelID=1137386"
+            },
+            {
+                "id": "2",
+                "name": "福容大飯店 淡水漁人碼頭",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_02-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=1084394"
+            },
+            {
+                "id": "3",
+                "name": "花蓮理想大地渡假飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_03-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=1006089"
+            },
+            {
+                "id": "4",
+                "name": "日月潭涵碧樓酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_07.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7524&HotelID=1200297"
+            },
+            {
+                "id": "5",
+                "name": "桃園大溪笠復威斯汀度假酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_08.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7570&HotelID=6129115"
+            },
+            {
+                "id": "6",
+                "name": "台北文華東方酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_09.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=926224"
+            },
+            {
+                "id": "7",
+                "name": "日勝生加賀屋國際溫泉飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_10.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=1249609"
+            },
+            {
+                "id": "8",
+                "name": "礁溪老爺酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_11.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7614&HotelID=1001027"
+            },
+            {
+                "id": "9",
+                "name": "台南大員皇冠假日酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_12.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3847&HotelID=17179177"
+            },
+            {
+                "id": "10",
+                "name": "墾丁夏都沙灘酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_16.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5589&HotelID=982128"
+            },
+            {
+                "id": "11",
+                "name": "阿樹國際旅店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_23.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=15879485"
+            },
+            {
+                "id": "12",
+                "name": "陽明山天籟渡假酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_24.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=890570"
+            },
+            {
+                "id": "13",
+                "name": "晶泉丰旅",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_26.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7614&HotelID=5673745"
+            },
+            {
+                "id": "14",
+                "name": "花蓮美侖大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_27.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=801388"
+            },
+            {
+                "id": "15",
+                "name": "台中日月千禧酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_28.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=848304"
+            },
+            {
+                "id": "16",
+                "name": "高雄中央公園英迪格酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_30.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=720&HotelID=6529236"
+            },
+            {
+                "id": "17",
+                "name": "HOTEL DUA",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_31.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=720&HotelID=1233006"
+            },
+            {
+                "id": "18",
+                "name": "台南榮興金鬱金香酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_33.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3847&HotelID=13694821"
+            },
+            {
+                "id": "19",
+                "name": "紅點文旅",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_34.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=965114"
+            },
+            {
+                "id": "20",
+                "name": "台東桂田喜來登酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2018/hotel_37.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3848&HotelID=1699804"
+            }
+        ]
+    ],
+    [
+        "year": "2019",
+        "hotel": [{
+                "id": "1",
+                "name": "日暉國際渡假村 台東池上",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_01-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3848&HotelID=1137386"
+            },
+            {
+                "id": "2",
+                "name": "福容大飯店 淡水漁人碼頭",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_02-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=1084394"
+            },
+            {
+                "id": "3",
+                "name": "花蓮理想大地渡假飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_03-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=1006089"
+            },
+            {
+                "id": "4",
+                "name": "瑞穗天合國際觀光酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_04-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=19478902"
+            },
+            {
+                "id": "5",
+                "name": "太魯閣晶英酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_05.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=801436"
+            },
+            {
+                "id": "6",
+                "name": "台南晶英酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_06.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3847&HotelID=927448"
+            },
+            {
+                "id": "7",
+                "name": "The Gaya Hotel渡假酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_25.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3848&HotelID=7591713"
+            },
+            {
+                "id": "8",
+                "name": "澎澄飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_29.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7805&HotelID=17184652"
+            },
+            {
+                "id": "9",
+                "name": "南方莊園渡假飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_32.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7570&HotelID=981742"
+            },
+            {
+                "id": "10",
+                "name": "凱達大飯店．台北",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_35.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=8511737"
+            },
+            {
+                "id": "11",
+                "name": "莿桐花文創微旅",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_36.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=16159453"
+            },
+            {
+                "id": "12",
+                "name": "台糖長榮酒店(台南)",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_13.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3847&HotelID=926595"
+            },
+            {
+                "id": "13",
+                "name": "阿里山賓館",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_14.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=650358&HotelID=1585276"
+            },
+            {
+                "id": "14",
+                "name": "溪頭米堤大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_15.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7524&HotelID=1050044"
+            },
+            {
+                "id": "15",
+                "name": "澎湖福朋喜來登酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_17.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7805&HotelID=4537718"
+            },
+            {
+                "id": "16",
+                "name": "台中大毅老爺行旅",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_18.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=26424587"
+            },
+            {
+                "id": "17",
+                "name": "福容大飯店 福隆",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_19.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=1119218"
+            },
+            {
+                "id": "18",
+                "name": "大地酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_20.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=1207908"
+            },
+            {
+                "id": "19",
+                "name": "承億文旅桃城茶樣子",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_21.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=1480526"
+            },
+            {
+                "id": "20",
+                "name": "天成文旅-繪日之丘",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2019/hotel_22.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=4984722"
+            }
+        ]
+    ],
+    [
+        "year": "2020",
+        "hotel": [{
+                "id": "1",
+                "name": "福容大飯店 淡水漁人碼頭",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_01_02.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=1084394"
+            },
+            {
+                "id": "2",
+                "name": "花蓮理想大地渡假飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_01_05.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=1006089"
+            },
+            {
+                "id": "3",
+                "name": "瑞穗天合國際觀光酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_01_03.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=19478902"
+            },
+            {
+                "id": "4",
+                "name": "The Gaya Hotel渡假酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_02_04.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3848&HotelID=7591713"
+            },
+            {
+                "id": "5",
+                "name": "天成文旅-繪日之丘",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_04_01.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=4984722"
+            },
+            {
+                "id": "6",
+                "name": "承億文旅桃城茶樣子",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_02_01.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=1480526"
+            },
+            {
+                "id": "7",
+                "name": "溪頭米堤大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_01_01_01.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7524&HotelID=1050044"
+            },
+            {
+                "id": "8",
+                "name": "永豐棧酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_03_01.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=801113"
+            },
+            {
+                "id": "9",
+                "name": "台北新板希爾頓酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_03_02.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=25195615"
+            },
+            {
+                "id": "10",
+                "name": "承億文旅台中鳥日子",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_04_02.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=1006196"
+            },
+            {
+                "id": "11",
+                "name": "台北晶華酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_03_03.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=700650"
+            },
+            {
+                "id": "12",
+                "name": "台南桂田酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_02_03.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3847&HotelID=1006079"
+            },
+            {
+                "id": "13",
+                "name": "遠雄悅來大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_01_04.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=801413"
+            },
+            {
+                "id": "14",
+                "name": "承億文旅-嘉義商旅",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_04_03.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=1084907"
+            },
+            {
+                "id": "15",
+                "name": "嘉義新悦花園酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_03_05.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=19832668"
+            },
+            {
+                "id": "16",
+                "name": "高雄漢來大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_03_04_02.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3847&HotelID=1006079"
+            },
+            {
+                "id": "17",
+                "name": "承億文旅淡水吹風",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_04_04.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=998916"
+            },
+            {
+                "id": "18",
+                "name": "薆悅酒店五權館",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_04_05.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=17968814"
+            },
+            {
+                "id": "19",
+                "name": "南投妖怪村主題飯店-溪頭明山森林會館",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_02_04_01.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7524&HotelID=1014386"
+            },
+            {
+                "id": "20",
+                "name": "花蓮山知道-承億文旅",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/2020/hotel_2020_02_05.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=5418891"
+            }
+        ]
+    ],
+    [
+        "year": "2021",
+        "hotel": [{
+                "id": "1",
+                "name": "承億文旅潭日月",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-38-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7524&HotelID=80801195"
+            },
+            {
+                "id": "2",
+                "name": "溪頭米堤大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-32-5.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7524&HotelID=1050044"
+            },
+            {
+                "id": "3",
+                "name": "花蓮理想大地渡假飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-26.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=1006089"
+            },
+            {
+                "id": "4",
+                "name": "雲品溫泉酒店日月潭",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-35.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7524&HotelID=1307504"
+            },
+            {
+                "id": "5",
+                "name": "瑞穗天合國際觀光酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-4-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=19478902"
+            },
+            {
+                "id": "6",
+                "name": "統一渡假村墾丁海洋體驗樂園",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-19.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5589&HotelID=1099207"
+            },
+            {
+                "id": "7",
+                "name": "福容大飯店淡水漁人碼頭",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/events/hotel-vote2021/winner/leisure-8-3.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=1084394"
+            },
+            {
+                "id": "8",
+                "name": "礁溪老爺",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-12.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7614&HotelID=1001027"
+            },
+            {
+                "id": "9",
+                "name": "遠雄悅來大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-9.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=801413"
+            },
+            {
+                "id": "10",
+                "name": "秧悦美地度假酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/leisure/leisure-33.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=29830472"
+            },
+            {
+                "id": "11",
+                "name": "嘉楠風華酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-28-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=8418046"
+            },
+            {
+                "id": "12",
+                "name": "新悦花園酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-14.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=19832668"
+            },
+            {
+                "id": "13",
+                "name": "台北晶華酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-26.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=700650"
+            },
+            {
+                "id": "14",
+                "name": "台北大倉久和大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-35.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=659913"
+            },
+            {
+                "id": "15",
+                "name": "板橋凱撒大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-5.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=7662&HotelID=7955445"
+            },
+            {
+                "id": "16",
+                "name": "台北遠東香格里拉",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-24.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=701420"
+            },
+            {
+                "id": "17",
+                "name": "林酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-46.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=3849&HotelID=1748821"
+            },
+            {
+                "id": "18",
+                "name": "水京棧國際酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-22.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=720&HotelID=8194467"
+            },
+            {
+                "id": "19",
+                "name": "耐斯王子大飯店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-45-1.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=1017864"
+            },
+            {
+                "id": "20",
+                "name": "君品酒店",
+                "imgSrc": "https://event.cdn-eztravel.com.tw/hpimg/htl/banner/promopage/vote/city/city-21.jpg",
+                "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=701703"
+            }
+        ]
+    ]
+}
