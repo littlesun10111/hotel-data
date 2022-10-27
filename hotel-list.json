@@ -1,6 +1,5 @@
-{
-    [
-        "year":"2018",
+[{
+        "year": "2018",
         "hotel": [{
                 "id": "1",
                 "name": "日暉國際渡假村 台東池上",
@@ -122,8 +121,8 @@
                 "href": "https://hotel.eztravel.com.tw/detail?CityID=3848&HotelID=1699804"
             }
         ]
-    ],
-    [
+    },
+    {
         "year": "2019",
         "hotel": [{
                 "id": "1",
@@ -246,8 +245,8 @@
                 "href": "https://hotel.eztravel.com.tw/detail?CityID=5152&HotelID=4984722"
             }
         ]
-    ],
-    [
+    },
+    {
         "year": "2020",
         "hotel": [{
                 "id": "1",
@@ -370,8 +369,8 @@
                 "href": "https://hotel.eztravel.com.tw/detail?CityID=6954&HotelID=5418891"
             }
         ]
-    ],
-    [
+    },
+    {
         "year": "2021",
         "hotel": [{
                 "id": "1",
@@ -494,5 +493,5 @@
                 "href": "https://hotel.eztravel.com.tw/detail?CityID=617&HotelID=701703"
             }
         ]
-    ]
-}
+    }
+]
